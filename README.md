@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim Ramadam</h1>
-<h3 align="center">front-end Development| Flutter</h3>
+<h3 align="center">front-end Development</h3>
 
 
 <br>
@@ -11,9 +11,9 @@
 
 ## 📩 Connect with me
 <p align="center">
-    <a href="mailto:manarshahin48@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-<a href="https://www.facebook.com/manarshahin48" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/manarshahin48/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+    <a href="karimnafas336@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<a href="https://www.facebook.com/Karim.Nafas19" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+  
 </p>
 
 ## 🛠 Languages and Tools
@@ -30,16 +30,7 @@
 <a href="https://dart.dev" title="Dart"><img src="https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
 </p>
 
-## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=tokyonight_duo" alt="manarshahin48" /></p>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
-<br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
   
 
