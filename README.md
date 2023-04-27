@@ -5,13 +5,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I am a `Computer Science Fresh Graduate` from Faculty of Computers & Information at Suez University
-- 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/)
-- 🌱 I’m currently studing `Flutter`
-- 📫 How to reach me **manarshahin48@gmail.com**
-- :thinking: I’m currently open for: new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1HyP3E7MsGhheuTH-s1LKYGext9Exa17M/view?usp=sharing).
-- :nerd_face: Always `learning new things`
-- 🐼 Doing my best 
+
 
 <br>
 
